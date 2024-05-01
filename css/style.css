@@ -1,0 +1,320 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+.row1{
+	width: 100%;
+	background-image: url('../images/bg_img.jpg');
+}
+.row1_inner{
+	width: 1000px;
+	margin: auto;
+}
+.inner_first{
+	width: 100%;
+	padding: 20px 0;
+}
+.inner_logo{
+	width: 180px;
+	float: left;
+}
+.logoimg{
+	width: 100%;
+}
+.inner_info{
+/*	width: 40px;*/
+    float: right;
+    text-align: right;
+}
+.inner_info_des{
+	color: blue;
+}
+.clear{
+	clear: both;
+}
+.inner_sec{
+	width: 100%;
+	background-image: url('../images/menu_rept.jpg');
+	border-radius: 10px;
+	padding: 15px 15px;
+}
+.menuitem{
+	display: inline-block;
+    margin-left: 40px;
+}
+.inner_third{
+	width: 100%;
+}
+
+.row2{
+	width: 100%;
+}
+.row2-1{
+	width: 1000px;
+	margin: auto;
+	padding-top: 50px;
+	border-bottom: 1px solid skyblue;
+}
+.row2-1-1{
+	width: 300px;
+	float: left;
+	padding-top: 10px;
+	margin-left: 25px;
+}
+.row2-1-1img{
+	width: 65px;
+	float: left;
+	padding: 5px;
+}
+.row2-1-1logo{
+	width: 100%;
+}
+.row2-1-1text{
+	width: 183px;
+	float: left;
+	text-align: justify;
+	font-size: 14px;
+	padding: 10px;
+}
+.row2-1-3{
+	border-left: 1px solid skyblue;
+	padding: 10px;  
+}
+
+.row2-2{
+	width: 100%;
+	padding: 20px 0;
+}
+.row2-2-1{
+	width: 100%;
+	margin: 20px;
+}
+.row2-2-2{
+	width: 100%;
+	background-image: url('../images/midback.png');
+	height: 300px;
+	background-repeat: no-repeat;
+	margin: 10px;
+}
+.firstrow{
+	width: 100%;
+	height: 60px;
+	
+/*	padding: 10px;
+	margin: 10px;*/
+}
+.secondrow{
+	width: 100%;
+}
+.boxcontent{
+	width: 32%;
+/*	padding: 6px 0px;*/
+	float: left;
+
+}
+.boximg{
+	width: 30%;
+	float: left;
+
+}
+/*.boximgadjust{
+	width: 100%;
+}*/
+.boxtext{
+	width: 65%;
+	font-size: 14px;
+	float: left;
+	line-height: 40px;
+
+}
+.row2-3{
+	width: 100%;
+	margin: 20px;
+
+}
+.row2-3-1{
+	width: 250px;
+	float: left;
+}
+.row3leftimg{
+	width: 43px;
+	padding: 5px;
+	float: left;
+}
+.row3righttext{
+	width: 190px;
+	float: right;
+	text-align: justify;
+}
+.row2-3-2{
+	width: 700px;
+	float: left;
+	padding-left: 50px;
+}
+.row3-2left{
+	width: 109px;
+	float: left;
+}
+.row3-2right{
+	width: 552px;
+	float: left;
+}
+
+.row3{
+	width: 100%;
+	background-image: url('../images/footer.png');
+}
+.row3_inner{
+	width: 1000px;
+	margin: auto;
+	
+}
+.row3_header{
+	width: 100%;
+}
+.leftpart{
+	width: 300px;
+	padding: 40px 10px;
+	float: left;
+	line-height: 25px;
+	font-size: 14px;
+	color: blue;
+}
+.heading{
+	padding: 10px 0;
+}
+.midpart{
+	width: 300px;
+	float: left;
+	padding: 35px 0;
+	line-height: 25px;
+	font-size: 14px;
+	color: blue;
+}
+.midpartpset{
+	padding: 10px;
+}
+.rightpart{
+	width: 300px;
+	float: right;
+	padding: 40px 0px;
+	text-align: right;
+	font-size: 14px;
+	color: blue;
+}
+.heading{
+	font-size: 18px;
+	color: orange;
+}
+.address{
+	padding: 10px;
+}
+.mobile{
+	padding: 10px;
+}
+.email{
+	padding: 10px;
+}
+.website{
+	padding: 10px;
+}
+.footerbroder{
+	width: 100%;
+}
+.logo{
+	width: 100%;
+}
+.fb{
+	width: 100%px;
+	float: right;
+}
+.row2left{
+	width: 234px;
+	background-image: url('../images/leftpanel.png');
+	float: left;
+}
+.row2heading{
+	text-align: center;
+	color: orange;
+}
+.row2list{
+	line-height: 30px;
+	padding: 10px;
+	font-weight: normal;
+}
+.row2right{
+	width: 704px;
+	float: left;
+	padding: 0 30px;
+}
+.form{
+	font-size: 18px;
+	line-height: 25px;
+	padding: 10px;
+	resize: none;
+}
+.row2_2content{
+	width: 234px;
+	padding: 20px 0;
+}
+.row2portfolio{
+	width: 100%;
+	padding: 20px 0;
+	border-bottom: 1px solid skyblue;
+}
+.portfolioleft{
+	width: 250px;
+	float: left;
+}
+.portfolioleft_upper{
+	width: 100%;
+	background-image: url('../images/leftpanel.png');
+	background-repeat: no-repeat;
+	padding: 10px 0;
+    margin-bottom: 20px;
+}
+.portfolioleft_down{
+	width: 100%;
+	background-image: url('../images/leftbelow.png');
+	background-repeat: no-repeat;
+	padding: 10px 0;
+/*    margin: 10px 0; */
+}
+.portfolioright{
+	width: 750px;
+	float: left;
+}
+.portimg{
+	width: 215px;
+    float: left;
+   margin: 15px;
+}
+.portimg4{
+	width: 213px;
+	padding: 10px;
+}
+.port1{
+	width: 100%;
+}
+.portfoliorightupper{
+	width: 100%;
+	padding: 10px;
+}
+.portfoliorightdown{
+	width: 100%;
+	padding: 10px;
+}
+.portfolioleftform{
+	width: 50%;
+	float: left;
+}
+.abouttext{
+	font-weight: normal;
+    margin: 50px 0;
+
+}
+.innertext{
+	margin: 20px 0;
+}
